@@ -1,1 +1,2 @@
+# 🕸️This wiki
 Loren ipsum
