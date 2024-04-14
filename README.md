@@ -9,6 +9,6 @@
 * Note 3
 
 # Useful documents
-* [[Managing Large Datasets|Managing Large Datasets]]
+* [Managing Large Datasets](managing_large_datasets.md)
 * Document 2
 * Document 3
