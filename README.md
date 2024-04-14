@@ -1,5 +1,5 @@
 # Projects
-* [[🕸️This wiki]]
+* [🕸️This wiki](https://github.com/nagonch/test_wiki/blob/main/this_wiki.md)
 * Project 2
 * Project 3
 
