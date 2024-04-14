@@ -4,7 +4,7 @@
 * Project 3
 
 # 📜 Paper notes
-* [[HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling|HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling notes]]
+* [HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling](hyper_reel.md)
 * Note 2
 * Note 3
 
